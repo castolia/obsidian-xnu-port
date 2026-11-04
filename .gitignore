@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.img
+*.bin
+*.dtb
+*.dtbo
+*.elf
+*.key
+*.pem
+*.p12
